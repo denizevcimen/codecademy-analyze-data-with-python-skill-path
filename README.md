@@ -6,7 +6,7 @@ Welcome to my Python projects repository! Below, you'll find a collection of pro
 
 In addition to the projects and case studies, I share detailed insights, tips, and reflections on my learning journey through a blog post. Check out this article for more context and behind-the-scenes information:
 
-- [Blog] (https://denizevcimen.com/blog/codeacademy-analyze-data-with-python-2022-version-skill-path)
+- [Blog](https://denizevcimen.com/blog/codeacademy-analyze-data-with-python-2022-version-skill-path)
 
 Feel free to explore, and if you have any questions or feedback, don't hesitate to reach out.
 
